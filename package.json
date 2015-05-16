@@ -17,6 +17,11 @@
     "co-body": "^0.0.1"
   },
   "devDependencies": {
+    "chai": "^2.3.0",
+    "gulp": "^3.8.11",
+    "gulp-mocha": "^2.0.1",
+    "gulp-nodemon": "^2.0.3",
+    "gulp-shell": "^0.4.1",
     "supertest": "^0.12.1",
     "mocha": "^1.18.2"
   }
